@@ -32,5 +32,6 @@ La metodología seguida en este proyecto ha sido la siguiente:
 - Módulos: random
 - Power BI (versión 36257.0)
 
-![Captura](https://github.com/Lorensou/Optimizacion-de-carteras-de-inversion-diversificadas/grafs/Carteras_aleatorias.png)
-![Captura](https://github.com/Lorensou/Optimizacion-de-carteras-de-inversion-diversificadas/grafs/Frontera_eficiente.png)
+![Captura](https://github.com/Lorensou/Optimizacion-de-carteras-de-inversion-diversificadas//blob/main/grafs/Carteras_aleatorias.png)
+![Captura](https://github.com/Lorensou/Optimizacion-de-carteras-de-inversion-diversificadas//blob/main/grafs/Frontera_eficiente.png)
+
